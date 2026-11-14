@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="390" viewBox="0 0 1280 390" role="img" aria-label="Saudi Real Estate Transactions Intelligence project banner">
+<defs>
+  <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#08162B"/><stop offset="1" stop-color="#15294B"/></linearGradient>
+  <linearGradient id="a" x1="0" x2="1"><stop stop-color="#39D3D3"/><stop offset="1" stop-color="#7589F8"/></linearGradient>
+  <pattern id="dots" width="30" height="30" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#89B7D0" opacity=".24"/></pattern>
+  <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="12" stdDeviation="12" flood-color="#040B17" flood-opacity=".35"/></filter>
+</defs>
+<rect width="1280" height="390" rx="24" fill="url(#bg)"/>
+<rect width="1280" height="390" rx="24" fill="url(#dots)"/>
+<path d="M0 363 C260 293 440 439 684 340 S1110 310 1280 190" fill="none" stroke="#31CDD6" opacity=".17" stroke-width="2"/>
+<rect x="54" y="45" width="178" height="31" rx="15" fill="#173D55" stroke="#267B8E"/>
+<text x="143" y="65" font-size="13" font-family="Arial,sans-serif" text-anchor="middle" font-weight="700" fill="#72E9E0" letter-spacing="2">FEATURED PROJECT</text>
+<text x="56" y="141" font-size="43" font-family="Arial,sans-serif" font-weight="700" fill="#FFFFFF">Saudi Real Estate</text>
+<text x="56" y="194" font-size="43" font-family="Arial,sans-serif" font-weight="700" fill="#FFFFFF">Transactions Intelligence</text>
+<rect x="56" y="221" width="487" height="3" rx="2" fill="url(#a)"/>
+<text x="56" y="265" font-size="20" font-family="Arial,sans-serif" fill="#C1D6ED">Power BI  /  Regional Market Analytics  /  Python</text>
+<text x="56" y="303" font-size="17" font-family="Arial,sans-serif" fill="#90B8D2">King Saud University · MIS 521 · 2026</text>
+<rect x="56" y="324" width="220" height="29" rx="7" fill="#1C3556"/>
+<text x="166" y="343" font-size="14" font-family="Arial,sans-serif" text-anchor="middle" fill="#DCEBFF">Decision-support case study</text>
+<g transform="translate(710 45)" filter="url(#shadow)">
+<rect width="506" height="298" rx="22" fill="#13243E" stroke="#345170"/>
+<text x="29" y="37" font-size="13" font-family="Arial,sans-serif" fill="#9EBBD5" letter-spacing="2">ANALYTICAL DATA SNAPSHOT</text>
+<text x="28" y="98" font-size="48" font-family="Arial,sans-serif" font-weight="700" fill="#FFFFFF">1,439,706</text>
+<text x="31" y="124" font-size="16" font-family="Arial,sans-serif" fill="#B5CDE2">distinct transaction references</text>
+<line x1="29" y1="146" x2="477" y2="146" stroke="#345170"/>
+<text x="30" y="179" font-size="15" font-family="Arial,sans-serif" fill="#B5CDE2">2024</text>
+<rect x="100" y="163" width="350" height="22" rx="7" fill="#263B58"/><rect x="100" y="163" width="342" height="22" rx="7" fill="#32C6CB"/>
+<text x="462" y="179" font-size="14" font-family="Arial,sans-serif" text-anchor="end" fill="#0C2337" font-weight="700">249k</text>
+<text x="30" y="220" font-size="15" font-family="Arial,sans-serif" fill="#B5CDE2">2025</text>
+<rect x="100" y="204" width="350" height="22" rx="7" fill="#263B58"/><rect x="100" y="204" width="277" height="22" rx="7" fill="#8994F2"/>
+<text x="365" y="220" font-size="14" font-family="Arial,sans-serif" text-anchor="end" fill="#08162B" font-weight="700">202k</text>
+<rect x="28" y="248" width="450" height="30" rx="8" fill="#273B59"/>
+<text x="41" y="269" font-size="14" font-family="Arial,sans-serif" fill="#F8CF81">2025 transactions: -19.2% vs 2024</text>
+</g>
+</svg>
