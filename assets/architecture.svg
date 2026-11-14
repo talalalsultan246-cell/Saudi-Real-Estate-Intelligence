@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1240" height="270" viewBox="0 0 1240 270" role="img" aria-label="Project analytics architecture: data source, cleaning, star schema, reporting, and forecasting">
+<rect width="1240" height="270" rx="18" fill="#0D1E36"/>
+<text x="42" y="48" font-family="Arial,sans-serif" font-size="25" font-weight="700" fill="#FFFFFF">FROM PUBLIC RECORDS TO DECISION SUPPORT</text>
+<text x="42" y="76" font-family="Arial,sans-serif" font-size="15" fill="#A9C4DC">The analytical workflow connects Phase 1 questions, Phase 2 reporting, and Phase 3 evidence.</text>
+<g font-family="Arial,sans-serif">
+<rect x="36" y="111" width="210" height="111" rx="13" fill="#213B57" stroke="#3A5D79"/>
+<text x="53" y="143" font-size="15" fill="#58E2D9" font-weight="700">01  SOURCE</text>
+<text x="53" y="174" font-size="17" fill="#FFFFFF" font-weight="700">MOJ-linked sales</text>
+<text x="53" y="197" font-size="13" fill="#BBD1E5">25 quarterly periods</text>
+<path d="M246 166 H270 l-9 -7 m9 7 -9 7" fill="none" stroke="#66CED4" stroke-width="3"/>
+<rect x="277" y="111" width="210" height="111" rx="13" fill="#213B57" stroke="#3A5D79"/>
+<text x="294" y="143" font-size="15" fill="#58E2D9" font-weight="700">02  TRANSFORM</text>
+<text x="294" y="174" font-size="17" fill="#FFFFFF" font-weight="700">Power Query</text>
+<text x="294" y="197" font-size="13" fill="#BBD1E5">Cleaning and checks</text>
+<path d="M487 166 H511 l-9 -7 m9 7 -9 7" fill="none" stroke="#66CED4" stroke-width="3"/>
+<rect x="518" y="111" width="210" height="111" rx="13" fill="#213B57" stroke="#3A5D79"/>
+<text x="535" y="143" font-size="15" fill="#58E2D9" font-weight="700">03  MODEL</text>
+<text x="535" y="174" font-size="17" fill="#FFFFFF" font-weight="700">Star schema + DAX</text>
+<text x="535" y="197" font-size="13" fill="#BBD1E5">FactSales / dimensions</text>
+<path d="M728 166 H752 l-9 -7 m9 7 -9 7" fill="none" stroke="#66CED4" stroke-width="3"/>
+<rect x="759" y="111" width="210" height="111" rx="13" fill="#213B57" stroke="#3A5D79"/>
+<text x="776" y="143" font-size="15" fill="#58E2D9" font-weight="700">04  REPORT</text>
+<text x="776" y="174" font-size="17" fill="#FFFFFF" font-weight="700">Power BI dashboard</text>
+<text x="776" y="197" font-size="13" fill="#BBD1E5">National + regional views</text>
+<path d="M969 166 H993 l-9 -7 m9 7 -9 7" fill="none" stroke="#66CED4" stroke-width="3"/>
+<rect x="1000" y="111" width="202" height="111" rx="13" fill="#213B57" stroke="#3A5D79"/>
+<text x="1016" y="143" font-size="15" fill="#58E2D9" font-weight="700">05  EXTEND</text>
+<text x="1016" y="174" font-size="17" fill="#FFFFFF" font-weight="700">Python forecasts</text>
+<text x="1016" y="197" font-size="13" fill="#BBD1E5">Separate from PBIX</text>
+</g></svg>
