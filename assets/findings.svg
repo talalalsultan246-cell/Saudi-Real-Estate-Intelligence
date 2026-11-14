@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1240" height="520" viewBox="0 0 1240 520" role="img" aria-label="2024 versus 2025 transactions, value, median price and regional differences from project snapshot">
+<rect width="1240" height="520" rx="20" fill="#F4F8FD"/>
+<text x="40" y="51" font-family="Arial,sans-serif" font-size="26" font-weight="700" fill="#122A49">2025 MARKET SIGNALS</text>
+<text x="41" y="78" font-family="Arial,sans-serif" font-size="14" fill="#52677F">2024 vs 2025 · complete calendar years · project source snapshot (not official market totals)</text>
+<g font-family="Arial,sans-serif">
+<rect x="37" y="108" width="369" height="198" rx="16" fill="#FFFFFF" stroke="#DEE7F0"/>
+<text x="61" y="139" fill="#65788D" font-size="16">Transaction count</text>
+<text x="61" y="178" fill="#102B4A" font-weight="700" font-size="30">201,556</text><text x="225" y="178" fill="#AF3559" font-weight="700" font-size="22">-19.2%</text>
+<rect x="61" y="203" width="298" height="20" rx="6" fill="#E8EFF6"/><rect x="61" y="203" width="298" height="20" rx="6" fill="#23B6C3"/>
+<rect x="61" y="238" width="298" height="20" rx="6" fill="#E8EFF6"/><rect x="61" y="238" width="241" height="20" rx="6" fill="#746BDA"/>
+<text x="61" y="287" fill="#6C7F92" font-size="13">2024: 249,328  /  2025: 201,556</text>
+<rect x="434" y="108" width="369" height="198" rx="16" fill="#FFFFFF" stroke="#DEE7F0"/>
+<text x="458" y="139" fill="#65788D" font-size="16">Recorded value (SAR bn)</text>
+<text x="458" y="178" fill="#102B4A" font-weight="700" font-size="30">219.02</text><text x="619" y="178" fill="#AF3559" font-weight="700" font-size="22">-22.1%</text>
+<rect x="458" y="203" width="298" height="20" rx="6" fill="#E8EFF6"/><rect x="458" y="203" width="298" height="20" rx="6" fill="#23B6C3"/>
+<rect x="458" y="238" width="298" height="20" rx="6" fill="#E8EFF6"/><rect x="458" y="238" width="232" height="20" rx="6" fill="#746BDA"/>
+<text x="458" y="287" fill="#6C7F92" font-size="13">2024: 281.22 bn  /  2025: 219.02 bn</text>
+<rect x="831" y="108" width="369" height="198" rx="16" fill="#FFFFFF" stroke="#DEE7F0"/>
+<text x="855" y="139" fill="#65788D" font-size="16">Median SAR per m²</text>
+<text x="855" y="178" fill="#102B4A" font-weight="700" font-size="30">1,045.83</text><text x="1025" y="178" fill="#AF3559" font-weight="700" font-size="22">-1.8%</text>
+<rect x="855" y="203" width="298" height="20" rx="6" fill="#E8EFF6"/><rect x="855" y="203" width="298" height="20" rx="6" fill="#23B6C3"/>
+<rect x="855" y="238" width="298" height="20" rx="6" fill="#E8EFF6"/><rect x="855" y="238" width="293" height="20" rx="6" fill="#746BDA"/>
+<text x="855" y="287" fill="#6C7F92" font-size="13">2024: 1,064.47  /  2025: 1,045.83</text>
+<text x="43" y="360" fill="#122A49" font-weight="700" font-size="22">Regional divergence in recorded transaction counts</text>
+<rect x="39" y="382" width="1159" height="102" rx="13" fill="#FFFFFF" stroke="#DEE7F0"/>
+<line x1="326" y1="401" x2="326" y2="467" stroke="#E4EAF2"/><line x1="612" y1="401" x2="612" y2="467" stroke="#E4EAF2"/><line x1="900" y1="401" x2="900" y2="467" stroke="#E4EAF2"/>
+<text x="64" y="412" font-size="14" fill="#65788D">RIYADH</text><text x="64" y="455" font-size="25" fill="#B43F5F" font-weight="700">-46.6%</text>
+<text x="351" y="412" font-size="14" fill="#65788D">MAKKAH</text><text x="351" y="455" font-size="25" fill="#187E7D" font-weight="700">+4.7%</text>
+<text x="636" y="412" font-size="14" fill="#65788D">EASTERN PROVINCE</text><text x="636" y="455" font-size="25" fill="#B43F5F" font-weight="700">-13.4%</text>
+<text x="924" y="412" font-size="14" fill="#65788D">ASIR</text><text x="924" y="455" font-size="25" fill="#B43F5F" font-weight="700">-0.6%</text>
+<text x="41" y="505" font-size="13" fill="#6A7E93">Source: MIS 521 Phase 3 analysis · nominal values · changes describe records, not causality.</text>
+</g></svg>
