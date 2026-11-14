@@ -1,0 +1,14 @@
+# Portfolio case study: exclude source data, binary reports and potentially sensitive files
+*.pbix
+*.pbip
+*.pbit
+*.csv
+*.csv.gz
+*.xlsx
+*.xls
+*.ipynb_checkpoints/
+.env
+*.zip
+*.pdf
+*.docx
+*.pptx
